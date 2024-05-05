@@ -7,7 +7,6 @@
 * [Conclusions](#conclusions)
 * [Contributors](#Contributors)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
 
@@ -21,9 +20,8 @@ Using following steps for data processing.
 
 - Step 1: Data Cleaning
 - Step 2: Univariate Analysis
-- Step 3: Segemented Univariate Analysis
-- Step 4: Bivaraiate/Multivariate Analysis
-- Step 5: Results/Conclusion
+- Step 3: Bivariate Analysis
+- Step 4: Results/Conclusion
 
 
 ## Technologies Used
@@ -36,9 +34,9 @@ Major Driving factor which can be used to predict the chance of defaulting and a
  - DTI
  - Grades
  - Annual income
- - 
+   
 Other considerations for 'defaults' :
- - borrowers from large urban cities like california, new york, texas, florida etc.
+ - Borrowers from large urban cities like california, new york, texas, florida etc.
  - Borrowers having annual income in the range 50000-100000.
  - Borrowers with least grades like E,F,G which indicates high risk.
  - Borrowers with very high Debt to Income value.
@@ -50,8 +48,3 @@ Other considerations for 'defaults' :
 - Sushil
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
