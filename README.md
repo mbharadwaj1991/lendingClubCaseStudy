@@ -45,6 +45,5 @@ Other considerations for 'defaults' :
 
 ## Contributors
 - Mayank Bharadwaj
-- Sushil
 
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
